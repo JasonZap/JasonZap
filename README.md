@@ -32,14 +32,12 @@ I love to build the ⚡ website ⚡ and ⚡ webapp⚡ , I have huge attraction o
   ![Nginx](https://img.shields.io/badge/-NGINX-009639?logo=NGINX&style=plastic&logoColor=white)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)  
-  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?logo=Bitbucket&style=plastic)
 - ⚙️ I also use and work: ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
   ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS) 
   ![Graphql](https://img.shields.io/badge/-Graphql-E10098?style=plastic&logo=Graphql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
-  ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
-  ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
+
 
 ##
 <!--
