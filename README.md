@@ -38,7 +38,7 @@ I love to build the ⚡ website ⚡ and ⚡ webapp⚡ , I have huge attraction o
   ![Graphql](https://img.shields.io/badge/-Graphql-E10098?style=plastic&logo=Graphql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USDev03&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 ##
 <!--
 <p align="center">
@@ -62,12 +62,9 @@ I love to build the ⚡ website ⚡ and ⚡ webapp⚡ , I have huge attraction o
       <img height="180em" width="45%" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=USDev03&theme=react&border=00dafb&fire=DDB80F"/>
  </a>
 </div>
-###
-<div align=center>
-<a href="#" title="Go to Source">
-      <img height="180em" align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USDev03&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats"/>
- </a>
- </div> 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USDev03&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
--->
+
+
+
+
+
+
