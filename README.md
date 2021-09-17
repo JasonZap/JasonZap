@@ -13,7 +13,7 @@ I love to build the ⚡ website ⚡ and ⚡ webapp⚡ , I have huge attraction o
   ![Bigcommerce](https://img.shields.io/badge/-BigCommerce-121118?logo=BigCommerce&style=plastic&logoColor=white)
   ![Magento](https://img.shields.io/badge/-Magento-EE672F?logo=Magento&style=plastic&logoColor=white)
   ![Godaddy](https://img.shields.io/badge/-GoDaddy-1BDBDB?logo=GoDaddy&style=plastic&logoColor=white)
-  ![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=Heroku&style=plastic&logoColor=white)  
+  ![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=Heroku&style=plastic&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
